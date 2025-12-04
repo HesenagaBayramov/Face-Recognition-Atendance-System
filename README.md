@@ -2,9 +2,11 @@
 
 Face Recognition Attendance System is an intelligent attendance tracking application built with Python, OpenCV, and Face Recognition technology. The system identifies students by scanning their faces through the camera and automatically records their attendance into a CSV file. It eliminates manual attendance and ensures a fast, secure, and reliable process.
 
+
 🎯 Purpose of the Project
 
 The main goal of this system is to modernize and automate the attendance process in schools or educational institutions. By using face recognition, students only need to stand in front of the camera to confirm their presence in class. No cards, signatures, or manual input required.
+
 
 👥 User Roles & Permissions
 Role	Permissions
@@ -16,6 +18,7 @@ Teacher	Can view attendance records and student information, but cannot add stud
 Student	Can only view their own attendance records (privacy protection enabled)
 
 This role-based structure increases security and prevents unauthorized access to sensitive information.
+
 
 🧠 How the System Works
 
@@ -29,6 +32,7 @@ Student’s presence is recorded into a CSV file with date & time
 
 The system does not allow duplicate attendance entries for the same day
 
+
 🛠️ Technologies Used
 
 Python
@@ -41,6 +45,7 @@ CSV Data Storage
 
 (Optional) GUI / Management Interface
 
+
 🚀 Key Features
 
 ✔ Automatic attendance marking
@@ -49,6 +54,7 @@ CSV Data Storage
 ✔ Privacy protection for student accounts
 ✔ Offline local system — no internet required
 ✔ Perfect for classrooms, labs, training centers
+
 
 📦 Outputs
 
@@ -64,6 +70,7 @@ Users only see data they are allowed to see
 
 Admin has full authority to update the database & retrain the model
 
+
 🏫 Ideal For
 
 Schools & Universities
@@ -73,6 +80,7 @@ Courses & Trainings
 Offices (can be adapted for employees)
 
 Controlled-access environments
+
 
 📌 Future Improvements (Optional Ideas)
 
