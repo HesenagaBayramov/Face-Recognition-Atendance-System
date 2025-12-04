@@ -9,7 +9,9 @@ The main goal of this system is to modernize and automate the attendance process
 👥 User Roles & Permissions
 Role	Permissions
 Admin	Full control: add new students, train the model, manage/view attendance
+
 Teacher	Can view attendance records and student information, but cannot add students or train the model
+
 Student	Can only view their own attendance records (privacy protection enabled)
 
 This role-based structure increases security and prevents unauthorized access to sensitive information.
